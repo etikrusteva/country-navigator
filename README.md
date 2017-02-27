@@ -1,1 +1,1 @@
-#testovete ot selenium ide
+#test cases selenium
